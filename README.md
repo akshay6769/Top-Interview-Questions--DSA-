@@ -343,5 +343,8 @@ Welcome to your ultimate coding interview preparation repository! This collectio
 
 For any help, suggestions, or bug reports, refer to the [Help Center](https://leetcode.com/help/) or open an issue in this repository.
 
+You can also connect with me on [LinkedIn](https://www.linkedin.com/in/akshay-kumar-ram-608158260)  
+Or email me at: [akshaysinghaniyaji@gmail.com](mailto:akshaysinghaniyaji@gmail.com)
+
 --- 
 Happy Coding & Good Luck!
