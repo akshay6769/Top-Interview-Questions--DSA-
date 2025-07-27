@@ -1,4 +1,4 @@
-# Top-Interview-Question--DSA-
+# Top-Interview-Questions--DSA-
 # Must-do List for Interview Prep
 
 Welcome to your ultimate coding interview preparation repository! This collection contains a curated set of **150 essential coding problems** frequently asked in technical interviews at top tech companies. The problems are organized by topic and difficulty, making it easy to track your progress and focus your study plan.
