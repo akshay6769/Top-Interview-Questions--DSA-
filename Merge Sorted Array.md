@@ -10,6 +10,15 @@
  * Optimal Algorithm (Two Pointers from End)
  * Time: O(m + n), Space: O(1)
  */
+# Merge Sorted Array
+
+- **Goal:** Merge nums2 into nums1, in-place, resulting in a single sorted array.
+
+- **Optimal Algorithm (Two Pointers from End)**
+
+- **Time:** O(m + n), **Space:** O(1)
+
+```java
 public class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int p1 = m - 1;            // Last valid element in nums1
@@ -36,6 +45,7 @@ public class MergeSortedArray {
         }
     }
 }
+```
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 #Documentation (Markdown)
 # LeetCode 88: Merge Sorted Array
